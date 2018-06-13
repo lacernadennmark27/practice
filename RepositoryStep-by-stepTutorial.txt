@@ -1,0 +1,10 @@
+pwd
+cd ~
+pwd
+cd..
+ls
+cd OJT
+pwd
+cd Desktop
+cd ORaaaaaYT (folderName)
+pwd
